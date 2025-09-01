@@ -5,4 +5,6 @@
   -Submit screenshots showing your Unreal Engine project with no starter content and another screenshot showing your project has been established in a repository.                    (COMPLETE)
   -Add .gitignore file, LFS Install, LFS track .uasset and .umap                                                                                                                      (COMPLETE)
 
+-Completed the module 1 material tutorial (1 September)
+
   ______________________________________________________________________________________________________________________________________________________________________________________________________________
